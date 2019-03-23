@@ -1,4 +1,4 @@
-# 8_puzzles
+# 15_puzzles problem
 In this coursework different search algorithms are
 compared. Some advantages and disadvantages of search meth-
 ods are described.
