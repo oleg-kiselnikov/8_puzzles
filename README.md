@@ -33,11 +33,14 @@ The main idea of the task is to compare different algorithms
 in a tree search. A search strategy is defined by picking the
 order of node expansion. Strategies are evaluated along the
 following dimensions:
+
 • completeness: whether it always find a solution if one
 exists;
+
 • time complexity: number of nodes generated;
 space complexity: maximum number of nodes in mem-
 ory;
+
 • optimality: whether it always find a least-cost solution;
 Time and space complexity are measured in terms of
 b: maximum branching factor of the search tree
