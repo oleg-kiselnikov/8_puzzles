@@ -16,6 +16,8 @@ goal is to build a tower, with these exact blocks in these exact
 positions as shown on figure 1. The position of the agent at
 the end doesnt matter.
 
+![picture](start_stop.png)
+
 To solve this problem the three components were specified:
 problem states, moves and goal. Each tile configuration is a
 state. For representation of each configuration the list of three
