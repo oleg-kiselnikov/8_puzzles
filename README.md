@@ -1,2 +1,4 @@
 # 8_puzzles
-the project was created as a part of Artificial Intelligence course
+In this coursework different search algorithms are
+compared. Some advantages and disadvantages of search meth-
+ods are described.
