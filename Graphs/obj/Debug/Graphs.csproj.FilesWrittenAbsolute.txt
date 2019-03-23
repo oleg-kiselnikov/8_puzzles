@@ -1,0 +1,5 @@
+/home/smart/Documents/Foundation of AI/8puzzles2/Graphs/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/smart/Documents/Foundation of AI/8puzzles2/Graphs/bin/Debug/Graphs.pdb
+/home/smart/Documents/Foundation of AI/8puzzles2/Graphs/bin/Debug/Graphs.dll
+/home/smart/Documents/Foundation of AI/8puzzles2/Graphs/obj/Debug/Graphs.dll
+/home/smart/Documents/Foundation of AI/8puzzles2/Graphs/obj/Debug/Graphs.pdb

@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="ConsoleApplication1/ConsoleApplication1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Graphs/BreadthFirstSearch.cs">
+    <Files>
+      <File FileName="ConsoleApplication1/Program.cs" Line="35" Column="1" />
+      <File FileName="Graphs/UniformCostSearch.cs" Line="5" Column="2" />
+      <File FileName="Graphs/IterativeDeepening.cs" Line="2" Column="34" />
+      <File FileName="Graphs/DepthFirstSearch.cs" Line="6" Column="18" />
+      <File FileName="Graphs/Randomization.cs" Line="12" Column="15" />
+      <File FileName="Graphs/BreadthFirstSearch.cs" Line="4" Column="11" />
+      <File FileName="ConsoleApplication1/GridState.cs" Line="81" Column="2" />
+      <File FileName="Graphs/Action.cs" Line="5" Column="25" />
+      <File FileName="Graphs/DepthLimitedSearch.cs" Line="6" Column="1" />
+      <File FileName="Graphs/Position.cs" Line="9" Column="3" />
+      <File FileName="Graphs/Search.cs" Line="15" Column="4" />
+      <File FileName="Graphs/PriorityQueue.cs" Line="11" Column="16" />
+      <File FileName="Graphs/State.cs" Line="13" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

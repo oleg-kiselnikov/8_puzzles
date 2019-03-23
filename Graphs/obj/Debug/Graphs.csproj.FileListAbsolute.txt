@@ -1,0 +1,10 @@
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\Graphs\bin\Debug\Graphs.dll
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\Graphs\bin\Debug\Graphs.pdb
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\Graphs\obj\Debug\Graphs.dll
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\Graphs\obj\Debug\Graphs.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\Graphs\bin\Debug\Graphs.dll
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\Graphs\bin\Debug\Graphs.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\Graphs\obj\Debug\Graphs.dll
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\Graphs\obj\Debug\Graphs.pdb

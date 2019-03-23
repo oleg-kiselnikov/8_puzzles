@@ -1,0 +1,16 @@
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\Graphs.dll
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\Graphs.pdb
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Repository\Southampton\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\Graphs.dll
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Debug\Graphs.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

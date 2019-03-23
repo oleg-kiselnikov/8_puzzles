@@ -1,0 +1,8 @@
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Release\Graphs.dll
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\bin\Release\Graphs.pdb
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Repository\Southampton2\8 Puzzle\YustinaIvanova\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
